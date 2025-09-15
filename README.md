@@ -50,6 +50,18 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" style="vertical-align: top;">
+<h3 align="center">Data Science</h3>
+<div align="center">
+<img src="https://imgur.com/iJ5EHPH" width="400" alt="Data Science" style="margin-bottom: 10px;">
+<p>Soy un apasionado de la ciencia de datos, con un enfoque en el aprendizaje automático y la visualización de datos. He desarrollado mi experiencia de forma autodidacta, dedicando tiempo a dominar Python y sus librerías clave, como Scikit-learn y Matplotlib. A través de mi trabajo con estas herramientas, he adquirido habilidades en la construcción de modelos predictivos y la creación de visualizaciones impactantes que convierten los datos en historias claras y concisas. Este enfoque autodidacta demuestra mi dedicación y mi capacidad para enfrentar y resolver desafíos complejos en el campo de la ciencia de datos.</p>
+</div>
+</tr>
+</table>
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
